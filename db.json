@@ -1,3 +1,14 @@
 {
-“ name”：“猛地打开！！！！！！”
+    "posts":[
+    {
+        "id": "1",
+        "name": "hello"
+    }
+    ],
+    "profile":{
+        "age": "28",
+        "name": "fansai",
+        "height": "188",
+        "bodyWeight": "80kg"
+    }
 }
